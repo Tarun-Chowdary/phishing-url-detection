@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+pandas
+pickel
+xgboost
+seaborn
+jupyter notebook
+matplotlib
